@@ -35,6 +35,7 @@ Installing a Text Editor <br/>
 [Classes and ids](classes.md) <br/>
 [Useful selectors](selectors.md) <br/>
 [Activity: Creating a CSS Stylesheet](creating_stylesheet.md) <br/>
+Troubleshooting <br/>
 
 ### Looking Ahead
 Additional Resources
