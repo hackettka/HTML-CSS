@@ -12,29 +12,29 @@ Learning HTML and CSS is the first step in 'getting under the hood' of the inter
 
 ### Getting Started
 
-Introduction to HTML and CSS
-Installing a Text Editor
+Introduction to HTML and CSS <br/>
+Installing a Text Editor <br/>
 
 ### HTML Basics
 
-[Opening Activity](opening_activity.md)
-[Basic template](basic.md)  
-[Tags and elements](elements.md)  
-[Paragraphs and headings](p_and_h.md)  
-[Links](links.md)  
-[Images](images.md)
-[General Conventions](conventions.md)
-[Activity: Creating a Website](creating_site.md)
+[Opening Activity](opening_activity.md) <br/>
+[Basic template](basic.md)  <br/>
+[Tags and elements](elements.md)  <br/>
+[Paragraphs and headings](p_and_h.md)  <br/>
+[Links](links.md)  <br/>
+[Images](images.md) <br/>
+[General Conventions](conventions.md) <br/>
+[Activity: Creating a Website](creating_site.md) <br/>
 
 ### CSS Basics
 
-[CSS Basics](css_basic.md)
-[HTML/CSS Integration](integration.md)
-[Rule sets](rules.md)  
-[Filtering](filter.md)  
-[Classes and ids](classes.md)  
-[Useful selectors](selectors.md)
-[Activity: Creating a CSS Stylesheet](creating_stylesheet.md)
+[CSS Basics](css_basic.md) <br/>
+[HTML/CSS Integration](integration.md) <br/>
+[Rule sets](rules.md) <br/>
+[Filtering](filter.md) <br/>
+[Classes and ids](classes.md) <br/>
+[Useful selectors](selectors.md) <br/>
+[Activity: Creating a CSS Stylesheet](creating_stylesheet.md) <br/>
 
 ### Looking Ahead
 Additional Resources
