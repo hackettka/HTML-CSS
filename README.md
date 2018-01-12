@@ -20,6 +20,7 @@ By the end of this workshop, participants will:
 
 Introduction to HTML and CSS <br/>
 Installing a Text Editor <br/>
+How does the Internet work anyway? <br/>
 
 ### HTML Basics
 
