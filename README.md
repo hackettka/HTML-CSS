@@ -1,12 +1,18 @@
 # HTML and CSS Workshop
 
-Through this workshop, participants will be introduced to two basic languages used in web development and design: HTML and CSS.
+Through this workshop, participants will be introduced to two basic languages used in web development and design: HTML and CSS. Learning HTML and CSS is a first step in 'getting under the hood' of the internet. 
 
 HTML is a markup language for the web. It's used to designate elements in documents, such as paragraphs, images, headings, and links, so that they can be rendered by programs such as browsers. HTML stands for Hypertext Markup Language.
 
 CSS is a language for describing style in markup languages, and is usually used in conjunction with HTML. CSS is essentially a set of rules that can then be applied when rendering a HTML document. CSS stands for Cascading Style Sheets, which refers to the fact that there is an order of precedence in how CSS rules are applied to a document.
 
-Learning HTML and CSS is the first step in 'getting under the hood' of the internet.. In addition to having a better understanding of these two languages, participants will leave with a demystified understanding of how websites are constructed and operate. 
+## Learning Goals:
+By the end of this workshop, participants will:
+<ul>
+	<li> Have a general understanding of how the Internet works </li>
+	<li> Understand the basics of HTML and CSS languages </li>
+	<li> Understand how to use a basic text editor to create webpages </li>
+	 
 
 ## Table of Contents
 
