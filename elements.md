@@ -18,7 +18,7 @@ Other elements have self-closing tags or void tags, as with the image element be
 <br/>
 <br/>
 <br/>
-[<<<Previous<<<](README.md) | [>>>Next>>>](p_and_h.md)
+[<<<Previous<<<](basic.md) | [>>>Next>>>](p_and_h.md)
 	
 	
 
