@@ -43,7 +43,7 @@ For this workshop you will need a text editor such as Sublime Text Editor, and a
 [Classes and ids](classes.md) <br/>
 [Useful selectors](selectors.md) <br/>
 [Activity: Creating a CSS Stylesheet](creating_stylesheet.md) <br/>
-Troubleshooting <br/>
+[Troubleshooting](troubleshooting.md) <br/>
 
 ### Looking Ahead
 [Additional Resources](resource.md) <br/>

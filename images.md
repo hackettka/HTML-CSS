@@ -16,3 +16,7 @@ Using the code above as a reference, add that image into your `index.html` file,
 Challenge: Looking at the code in your `index.html` file, what type of tag is the `<img>` tag? 
 
 Hint: Compare this tag with your `<p>` tag.
+<br/>
+<br/>
+<br/>
+[<<<Previous<<<](links.md) | [>>>Next>>>](conventions.md)

@@ -37,3 +37,7 @@ ACTIVITY:
 Add the relative link to the About page to your `index.html` page. Re-save that document and re-open it in your broswer - you can refresh the page if you still have it open, or re-open it from your desktop.
 
 Challenge: Add a relative link from your About page to your `index.html` page. 
+<br/>
+<br/>
+<br/>
+[<<<Previous<<<](p_and_h.md) | [>>>Next>>>](images.md)

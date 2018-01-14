@@ -32,3 +32,7 @@ Add a title, header, and paragraph to your 'index.html' file. Re-save the file. 
 What do you notice about how the information is organized? 
 
 Reminder: the `<head>` element is for information about the webpage. For example, the `<title>` in the template below will appear in the browser tab.
+<br/>
+<br/>
+<br/>
+[<<<Previous<<<](elements.md) | [>>>Next>>>](links.md)
