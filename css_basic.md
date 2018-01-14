@@ -11,6 +11,7 @@ Examples of what CSS can help you determine include:
 	</ul>
 </p>
 <br/>
+Why isn't this working? Do I just need text here? 
 <br/>
 <br/>
 [<<<Previous<<<](create_site.md) | [>>>Next>>>](integration.md)
