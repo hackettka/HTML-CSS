@@ -61,4 +61,4 @@ External styling creates a separate stylesheet for your CSS that will be linked 
     <link rel="stylesheet" href="style.css">
 ```
 
-<style font-style bold:"Best Practices"> </style>: Option 3, external styling, is preferred by most web developers because it is considered best practice to keep your HTML document 'presentation' free. 
+*Best Practices:* Option 3, external styling, is preferred by most web developers because it is considered best practice to keep your HTML document 'presentation' free. 
