@@ -47,5 +47,7 @@ Troubleshooting <br/>
 
 ### Looking Ahead
 [Additional Resources](resource.md) <br/>
-
-[Next](internet.md)
+<br/>
+<br/>
+<br/>
+[>>>Next>>>](internet.md)
