@@ -8,4 +8,4 @@ As we’ve gone through the different components of creating a webpage, you have
 <br/>
 <br/>
 <br/>
-[<<<Previous<<<](images.md) | [>>>Next>>>](creating_site.md)
+[<<<Previous<<<](images.md) | [>>>Next>>>](create_site.md)
