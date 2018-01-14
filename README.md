@@ -32,7 +32,7 @@ For this workshop you will need a text editor such as Sublime Text Editor, and a
 [Links](links.md)  <br/>
 [Images](images.md) <br/>
 [General Conventions](conventions.md) <br/>
-[Activity: Creating a Website](creating_site.md) <br/>
+[Activity: Creating a Website](create_site.md) <br/>
 
 ### CSS Basics
 
