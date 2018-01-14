@@ -1,6 +1,6 @@
 # Paragraphs and Headings
 
-Paragraphs and headings are the main textual elements of the body of your html-based webpages. Because these contain content that you want to organize and display on your webpage, these are entered in the `<body>` element. 
+Paragraphs and headings are the main textual elements of the body of your html-based webpages. Because these contain content that you want to organize and display on your webpage, these are entered in the body element. 
 
 The `<h1>`, `<h2>`, `<h3>`, etc tags denote headings and subheadings, `<h1>` being the largest.
 
@@ -26,12 +26,13 @@ THe `<p>` tags denote paragraphs, or blocks of text.
 </html>
 ```
 
-ACTIVITY:
-Add a title, header, and paragraph to your 'index.html' file. Re-save the file. Go into your finder and open it.
+## Activity:
+In you `index.html` file, add a title, header, and paragraph. Re-save the file. Go into your finder and open it.
 
 What do you notice about how the information is organized? 
 
-Reminder: the `<head>` element is for information about the webpage. For example, the `<title>` in the template below will appear in the browser tab.
+### Reminder: 
+The `<head>` element is for information about the webpage. For example, the `<title>` in the template below will appear in the browser tab.
 <br/>
 <br/>
 <br/>
