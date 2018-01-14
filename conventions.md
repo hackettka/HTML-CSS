@@ -10,7 +10,7 @@ As we’ve gone through the different components of creating a webpage, you have
     </ul>
 </p>
 
-With respect to points 2 and 3, it is good to development habits that keep with these conventions now, in case you find yourself in a professional coders environment in the future.
+With respect to points 2 and 3, it is good to development habits that keep with these conventions now, in case you find yourself in a professional codeing environment in the future.
 <br/>
 <br/>
 <br/>
