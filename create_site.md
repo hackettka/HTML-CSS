@@ -15,7 +15,7 @@ Create this as a new page and call it `course.html`.
         <li> One image </li>
         <li> A menu or navigation bar that links to your `Home` and `About` pages </li>
     </ul>
-    Think about the order of your content as you assemble the body of your page. 
+    <strong>Think about the order of your content as you assemble the body of your page.</strong> 
 </p>
 <br/>
 Here are two additional tags that might come in handy in assembling your page:
