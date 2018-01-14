@@ -15,7 +15,7 @@ Elements can have other elements inside them, and generally speaking, it is thes
 Other elements have self-closing tags or void tags, as with the image element below. These elements don't require a separate closing tag because you wouldn't add additional elements within the image element.
 	
 	<img src="image.jpeg">
-<br/>
+
 <br/>
 <br/>
 [<<<Previous<<<](basic.md) | [>>>Next>>>](p_and_h.md)
