@@ -2,7 +2,7 @@
 
 Using the tags we've just reviewed, and two additional ones (see below) create a site for a course you teach. 
 
-Create this as a new page and call it `course.html`.
+Create this as a new page or text file and call it `course.html`.
 
 ## You site should include:
 <p>
