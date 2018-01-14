@@ -27,7 +27,7 @@ Here are two additional tags that might come in handy in assembling your page:
         <li> To make a line break or give space between different elements. </li>
     </ul>
 </p>
-### Lists:
+<br/>
 `````
 <p>
     <ul> 
@@ -37,13 +37,11 @@ Here are two additional tags that might come in handy in assembling your page:
     <ul>
 </p> 
 `````
-<br/>
-### Breaks:      
+<br/>     
 `````
 <br/> 
 `````
-## Ready, set, go!
 <br/>
 <br/>
 <br/>
-[<<<Previous<<<](conventions.md) | [>>>Next>>>](css_basic.md)
+[<<<Previous<<<](conventions.md) | [>>>Next>>>](css_basic.md) 
