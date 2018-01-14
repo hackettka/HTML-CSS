@@ -32,7 +32,9 @@ Open your text editor, copy and paste this template into your text editor, and s
 
 Open a second file, copy and paste this same template into your text editor, and save as 'about.html' to the same folder on your desktop.
 
-Once you have both documents saved, open the 'index.html' through the Finder. What happens? 
+Once you have both documents saved, open the 'index.html' through the Finder. 
+
+What happens? 
 <br/>
 <br/>
 <br/>
