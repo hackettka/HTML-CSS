@@ -28,7 +28,7 @@ Here are two additional tags that might come in handy in assembling your page:
     </ul>
 </p>
 ### Lists:
-```
+`````
 <p>
     <ul> 
         <li> item 1 </li>
@@ -36,12 +36,12 @@ Here are two additional tags that might come in handy in assembling your page:
         <li> item 3 </li>
     <ul>
 </p> 
-```
+`````
 <br/>
 ### Breaks:      
-```
+`````
 <br/> 
-```
+`````
 ## Ready, set, go!
 <br/>
 <br/>
