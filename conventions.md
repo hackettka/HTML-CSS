@@ -5,3 +5,7 @@ As we’ve gone through the different components of creating a webpage, you have
         <li> Use lower case. There is no techical reason to do this, but it is good practice: easier to scan code, cleaner look. </li>
         <li> You code should be nested. There is no technical reason for this either - blank space has no meaning in html; however, this also makes it easier to scan the code quickly - which is particularly helpful when you run into errors! </li>
     </ul>
+<br/>
+<br/>
+<br/>
+[<<<Previous<<<](images.md) | [>>>Next>>>](creating_site.md)

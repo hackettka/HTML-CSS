@@ -9,3 +9,7 @@ Similar to the closing HTML activity, there will be a set of challenges structur
 	<link rel="stylesheet" type="text/css" href="style.css">
 	
 This will tell your HTML document to use styles from the text file named `style.css` in the same folder.
+<br/>
+<br/>
+<br/>
+[<<<Previous<<<](selectors.md) | [>>>Next>>>](troubleshooting.md)

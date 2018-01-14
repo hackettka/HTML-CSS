@@ -27,3 +27,8 @@ For the last two items, use the following tags:
 ```
 
 Ready, set, go!
+
+<br/>
+<br/>
+<br/>
+[<<<Previous<<<](conventions.md) | [>>>Next>>>](css_basic.md)
