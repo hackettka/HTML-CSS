@@ -1,6 +1,6 @@
 #  Activity: Create a Course Site!
 
-Using the tags we've just reviewed, and two additional ones, see below, create a site for a course you teach. 
+Using the tags we've just reviewed, and two additional ones (see below) create a site for a course you teach. 
 
 Create this as a new page and call it `course.html`.
 
@@ -18,7 +18,7 @@ Create this as a new page and call it `course.html`.
     <strong>Think about the order of your content as you assemble the body of your page.</strong> 
 </p>
 <br/>
-Here are two additional tags that might come in handy in assembling your page:
+## Here are two additional tags that might come in handy in assembling your page:
 <p>
     <ul>
         <li> To make a list. This may come in handy when making your menu or navigation bar.
