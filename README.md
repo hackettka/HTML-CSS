@@ -12,15 +12,16 @@ By the end of this workshop, participants will:
 	<li> Have a general understanding of how the Internet works </li>
 	<li> Understand the basics of HTML and CSS languages </li>
 	<li> Understand how to use a basic text editor to create webpages </li>
-	 
+</ul>
+
+## Tech Needs:
+For this workshop you will need a text editor such as Sublime Text Editor, and an internet browser such as Chrome.
 
 ## Table of Contents
 
 ### Getting Started
 
-Introduction to HTML and CSS <br/>
-Installing a Text Editor <br/>
-How does the Internet work anyway? <br/>
+[How does the Internet work anyway?](internet.md) <br/>
 
 ### HTML Basics
 
@@ -45,4 +46,6 @@ How does the Internet work anyway? <br/>
 Troubleshooting <br/>
 
 ### Looking Ahead
-Additional Resources
+[Additional Resources](resource.md) <br/>
+
+[Next](internet.md)
