@@ -16,6 +16,8 @@ Other elements have self-closing tags or void tags, as with the image element be
 	
 	<img src="image.jpeg">
 
+If you look back at the basic template in your `index.html` file, you'll see that the main sections of your file have opening and closing tags. This is because each of these main elements contains a number of more specific elements, many of which we'll discuss today.
+<br/>
 <br/>
 <br/>
 [<<<Previous<<<](basic.md) | [>>>Next>>>](p_and_h.md)
