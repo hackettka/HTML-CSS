@@ -50,4 +50,4 @@ Tip: If you run into an error, be sure to check your punctuation. Often times it
 <br/>
 <br/>
 <br/>
-[Previous](filter.md) | [>>>Next>>>](selectors.md)
+[Previous](filter.md) | [Next](selectors.md)
