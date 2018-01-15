@@ -7,4 +7,6 @@ add resource list here. look at Kelsey's?
 1. Reclaim Hosting
 <img src="reclaim.jpeg"/>
 
-<a href:"https://pages.github.com/">Github Pages/> 
+<p>
+<a href:"https://pages.github.com/" Github Pages/> 
+</p>
