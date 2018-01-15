@@ -62,7 +62,7 @@ External styling creates a separate stylesheet for your CSS that will be linked 
 ```
 
 ## Important
-With CSS, and without additonal code, the the more specific rules always take precedent. This applies to integrating CSS too. If you link to an external stylesheet, and you add inline or internal CSS into your HTML, the inline or internal CSS will override the rules set in the external stylesheet. 
+With CSS, and without additonal code, the the more specific rules always take precedent. This applies to integrating CSS too. If you link to an external stylesheet, and you add inline or internal CSS into your HTML, the inline or internal CSS will override the rules set in the external stylesheet. If you use inline and internal CSS at the same time, the inline CSS will override the internal CSS. 
 
 ## Best Practices:
 Option 3, external styling, is preferred by most web developers because it is considered best practice to keep your HTML document 'presentation' free. 
