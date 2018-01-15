@@ -61,11 +61,14 @@ External styling creates a separate stylesheet for your CSS that will be linked 
     <link rel="stylesheet" href="style.css">
 ```
 
+## Important
+With CSS, and without additonal code, the the more specific rules always take precedent. This applies to integrating CSS too. If you link to an external stylesheet, and you add inline or internal CSS into your HTML, the inline or internal CSS will override the rules set in the external stylesheet. 
+
 ## Best Practices:
 Option 3, external styling, is preferred by most web developers because it is considered best practice to keep your HTML document 'presentation' free. 
 
 ## Activity
-Open up a new document in your Sublime Text editor. Save the document to the same folder as your HTML documents and title it `style.css`. In your `index.html` document, add in the link to our style sheet. Be sure to add it in the correct place in the code. 
+Open up a new document in your Sublime Text editor. Save the document to the same folder as your HTML documents and title it `style.css`. In your `index.html` document, add in the link to our style sheet and re-save the file. Be sure to add it in the correct place in the code. 
 <br/>
 <br/>
 <br/>
