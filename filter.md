@@ -17,4 +17,4 @@ p strong {
 <br/>
 <br/>
 <br/>
-[Previous](rules.md) | [>>>Next>>>](classes.md)
+[<<<Previous<<<](rules.md) | [>>>Next>>>](classes.md)
