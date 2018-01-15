@@ -17,7 +17,7 @@ Class selectors look like this - the name of the selector preceeded by a full st
 }
 ```
 
-and in HTML they are incorporated into elements like this:
+...and in HTML they are incorporated into elements like this:
 
 ```
 <p class="navbar">
@@ -33,12 +33,12 @@ and in HTML they are incorporated into elements like this:
 Id selectors look like this in the CSS - the name of the selector preceeded by a hashmark:
 
 ```
-#green-text {
-	color: green;
+#navbar {
+	background-color: yellow;
 }
 ```
 
-And in the HTML they are incorporated into elements like this:
+...and in the HTML they are incorporated into elements like this:
 
 ```
 <p id="green-text">
