@@ -1,12 +1,11 @@
 #  Activity: Create a Course Site!
 
-Using the tags we've just reviewed, and two additional ones (see below) create a site for a course you teach. 
+Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for a course you teach. 
 
-Create this as a new page or text file and call it `course.html`.
-
-## You site should include:
+## You page should include:
 <p>
     <ul>
+        <li> Doctype </li>
         <li> Basic root element </li>
         <li> A head and a body </li>
         <li> A title for the page </li>
@@ -45,6 +44,8 @@ Here are two additional tags that might come in handy in assembling your page:
 <br/>
 ```
 <br/>
+## Technical
+To create this site, create a new folder on your desktop titled `course`.  
 <br/>
 <br/>
 [<<<Previous<<<](conventions.md) | [>>>Next>>>](css_basic.md) 
