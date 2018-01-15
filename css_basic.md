@@ -10,4 +10,4 @@ Examples of what CSS can help you determine include:
 		<li> How large you want the images, and whether you want them aligned center, left or right. </li>
 	</ul>
 </p>
-[<<<Previous<<<](create_site.md) <br/> | [>>>Next>>>](integration.md)
+[<<<Previous<<<](create_site.md) | [>>>Next>>>](integration.md)
