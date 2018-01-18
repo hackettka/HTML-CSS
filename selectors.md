@@ -1,5 +1,5 @@
 
-### Useful selectors
+# Useful selectors
 
 ### Color
 
@@ -23,7 +23,7 @@ Aligns text to the left, center, or right.
 
 ### Padding
 
-The space between text and the "box" surrounding it.
+The space between text and the "box" (`<div>`) surrounding it.
 
 `padding: 10px;`
 `padding-right: 10px`
