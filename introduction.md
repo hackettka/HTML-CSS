@@ -18,6 +18,7 @@ A common way to refer to the differences between a programming language and a ma
 <h2> CSS, aka Cascading Stylesheet </h2>
 CSS is a language for describing style in markup languages, and is usually used in conjunction with HTML. CSS is essentially a set of rules that can then be applied when rendering a HTML document. It's name - cascading stylesheets - refers to the fact that there is an order of precedence in how CSS rules are applied to a document; in short, more specific rules overwrite less specific rules.
 
-Together, these languages can be used to write and style a website using a text editor (i.e. Sublime) directly from your computer. No internet access needed. 
+<h2> Where does the Internet come in? </h2>
+Together, these languages can be used to write and style a website using a text editor (i.e. Sublime) directly from your computer. No Internet access needed. 
 
-However, internet access is necessary if you plan on making your website available to the public. How do get your website from your local computer on the internet is something we'll briefly discuss at the end of this workshop.
+However, Internet access is necessary if you plan on making your website available to the public. How do get your website from your local computer on the internet is something we'll briefly discuss at the end of this workshop.
