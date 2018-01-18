@@ -27,5 +27,5 @@ Together, these languages can be used to write and style a website using a text 
 However, Internet access is necessary if you plan on making your website available to the public. At the end of this workshop, we will briefly disucss how to get your website from your local computer on the internet.
 <br/>
 <br/>
-<br/>
+
 [<<<Back](README.md) | [Next>>>](openingactivity.md)
