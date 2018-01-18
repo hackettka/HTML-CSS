@@ -17,7 +17,7 @@ Download and save an image from the web, or move an image from your computer int
 
 Using the code above as a reference, add that image into your `index.html` file, re-save the file, and re-open or refresh the page in your browser. 
 
-#### CHALLENGE: 
+### CHALLENGE: 
 Looking at the code in your `index.html` file, what type of tag is the `<img>` tag? 
 
 *Hint: Compare this tag with your `<p>` tag.*
