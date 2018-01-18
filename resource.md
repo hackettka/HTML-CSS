@@ -1,5 +1,8 @@
 add resource list here. look at Kelsey's? 
 
+<h3> Why index.html? </h3> 
+[Understanding the index.html Page on a Website, *Though Co.*](https://www.thoughtco.com/index-html-page-3466505)
+
 <h2>
 	Free and Cheap Hosting Services
 </h2>
