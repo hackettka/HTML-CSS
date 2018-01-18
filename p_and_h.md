@@ -28,6 +28,8 @@ THe `<p>` tags denote **paragraphs**, or blocks of text.
 </html>
 ```
 
+*Note that the `<title>` is in the `<head>` element, which is where information about the webpage goes.* 
+
 ## ACTIVITY:
 In you `index.html` file, add
 <ul>
@@ -38,9 +40,6 @@ In you `index.html` file, add
 Then, re-save the file. Go into your finder and open it in your browser.
 
 What do you notice about how the information is organized in the webpage? In other words, where is the title, heading and paragraph text?
-
-### Reminder: 
-The `<head>` element is for information about the webpage. For example, the `<title>` in the template below will appear in the browser tab.
 <br/>
 <br/>
 
