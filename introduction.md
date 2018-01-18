@@ -20,5 +20,5 @@ CSS is a language for describing style in markup languages, and is usually used 
 
 <h2> Where does the Internet come in? </h2>
 Together, these languages can be used to write and style a website using a text editor (i.e. Sublime) directly from your computer. No Internet access needed. 
-<br>
+<br/>
 However, Internet access is necessary if you plan on making your website available to the public. How do get your website from your local computer on the internet is something we'll briefly discuss at the end of this workshop.
