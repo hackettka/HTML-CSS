@@ -1,10 +1,12 @@
+[<<<Back](elements.md) | [Next>>>](links.md)
+
 # Paragraphs and Headings
 
-Paragraphs and headings are the main textual elements of the body of your html-based webpages. Because these contain content that you want to organize and display on your webpage, these are entered in the body element. 
+Paragraphs and headings are the main textual elements of the body of your webpages. Because these contain content that you want to organize and display on your webpage, these are entered in the body element. 
 
-The `<h1>`, `<h2>`, `<h3>`, etc tags denote headings and subheadings, `<h1>` being the largest.
+The `<h1>`, `<h2>`, `<h3>`, etc tags denote **headings and subheadings**, `<h1>` being the largest.
 
-THe `<p>` tags denote paragraphs, or blocks of text.
+THe `<p>` tags denote **paragraphs**, or blocks of text.
 
 ```
 <!DOCTYPE html>
@@ -26,14 +28,20 @@ THe `<p>` tags denote paragraphs, or blocks of text.
 </html>
 ```
 
-## Activity:
-In you `index.html` file, add a title, header, and paragraph. Re-save the file. Go into your finder and open it.
+## ACTIVITY:
+In you `index.html` file, add
+<ul>
+	<li> Title </li>
+	<li> Heading </li>
+	<li> Paragraph </li> 
+</ul>
+Then, re-save the file. Go into your finder and open it in your browser.
 
-What do you notice about how the information is organized? 
+What do you notice about how the information is organized in the webpage? In other words, where is the title, heading and paragraph text?
 
 ### Reminder: 
 The `<head>` element is for information about the webpage. For example, the `<title>` in the template below will appear in the browser tab.
 <br/>
 <br/>
-<br/>
-[<<<Previous<<<](elements.md) | [>>>Next>>>](links.md)
+
+[<<<Back](elements.md) | [Next>>>](links.md)
