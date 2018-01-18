@@ -1,3 +1,5 @@
+[<<<Back](README.md) | [Next>>>](openingactivity.md)
+
 # Introduction
 
 Websites seems like these magical things that appear when we open our web browsers. We can click between different pages of the website to obtain different information about the 'thing' the website is providing information about. What may be less obvious about websites is that, in essence **websites are interlinked text documents** usually written in HTML or another web-based markup language (for example, XML, XHTML). 
@@ -23,3 +25,5 @@ Together, these languages can be used to write and style a website using a text 
 <br/>
 <br/>
 However, Internet access is necessary if you plan on making your website available to the public. At the end of this workshop, we will briefly disucss how to get your website from your local computer on the internet.
+
+[<<<Back](README.md) | [Next>>>](openingactivity.md)
