@@ -1,4 +1,4 @@
-[<<<Back](README.md) | [Next>>>](openingactivity.md)
+[<<<Back](README.md) | [Next>>>](opening_activity.md)
 
 # Introduction
 
@@ -28,4 +28,4 @@ However, Internet access is necessary if you plan on making your website availab
 <br/>
 <br/>
 
-[<<<Back](README.md) | [Next>>>](openingactivity.md)
+[<<<Back](README.md) | [Next>>>](opening_activity.md)
