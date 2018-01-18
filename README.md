@@ -1,3 +1,5 @@
+[Next>>>](internet.md)
+
 # HTML and CSS Workshop
 
 Through this workshop, participants will be introduced to two basic languages used in web development and design: HTML and CSS. 
@@ -14,13 +16,15 @@ Learning HTML and CSS is a first step in 'getting under the hood' of the interne
 </ul>
 
 ## Tech Needs:
-For this workshop you will need a text editor such as Sublime Text Editor, and an internet browser such as Chrome.
+For this workshop, participants will need: 
+<ul>
+	<li> Text editor such as Sublime </li>
+	<li> Internet browser such as Chrome.
+</ul>
 
 ## Table of Contents
 
-### Getting Started
-
-[How does the Internet work anyway?](internet.md) <br/>
+[Introduction](introduction.md) <br/>
 
 ### HTML Basics
 
@@ -45,8 +49,10 @@ For this workshop you will need a text editor such as Sublime Text Editor, and a
 [Troubleshooting](troubleshooting.md) <br/>
 
 ### Looking Ahead
+
+[Making your Website Public](public.md <br/>)
 [Additional Resources](resource.md) <br/>
 <br/>
 <br/>
 <br/>
-[>>>Next>>>](internet.md)
+[Next>>>](internet.md)
