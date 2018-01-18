@@ -36,7 +36,7 @@ Open a second file, type or copy and paste this same template into your text edi
 
 These are the first two pages of your new website! 
 
-*Note: The `index.html` is your default homepage. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website.* See [Resources](resources.md) for more.
+*Note: The `index.html` is your default homepage. This is an industry standard, because web browsers tend to recognize the `index.html` page as the opening page to the directory that is your website.* See [Resources](resource.md) for more.
 
 Once you have both documents saved, open the 'index.html' through the Finder. 
 
