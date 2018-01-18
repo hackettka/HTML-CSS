@@ -1,14 +1,18 @@
-#  Activity: Create a Course Site!
+[<<<Back](conventions.md) | [Next>>>](css_basic.md)
+
+#  ACTIVITY: Create a Course Site!
 
 Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for a course you teach. 
 
-## You page should include:
+The first step is creating a new page. Call this page `Course.html` and remember the conditions of where to save it.
+
+## You page should include the following:
 <p>
     <ul>
         <li> Doctype </li>
-        <li> Basic root element </li>
-        <li> A head and a body </li>
-        <li> A title for the page </li>
+        <li> Root element </li>
+        <li> Head and a body </li>
+        <li> Title for the page </li>
         <li> One heading </li>
         <li> One paragraph </li>
         <li> One image </li>
@@ -43,9 +47,9 @@ Here are two additional tags that might come in handy in assembling your page:
 ```
 <br/>
 ```
+<br/>  
 <br/>
-## Technical
-To create this site, create a new folder on your desktop titled `course`.  
-<br/>
-<br/>
-[<<<Previous<<<](conventions.md) | [>>>Next>>>](css_basic.md) 
+## CHALLENGE
+Finished? Play around with other tags by referring to an [html cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php). 
+
+[<<<Back](conventions.md) | [Next>>>](css_basic.md) 
