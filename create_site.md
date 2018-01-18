@@ -29,6 +29,7 @@ Here are two additional tags that might come in handy in assembling your page:
         <li> To make a list. This may come in handy when making your menu or navigation bar. </li>
     </ul>
 </p>
+
 ```
 <p>
     <ul>
@@ -44,9 +45,11 @@ Here are two additional tags that might come in handy in assembling your page:
         <li> To make a line break or give space between different elements. </li>
     </ul>
 </p>
+
 ```
 <br/>
 ```
+
 <br/>  
 <br/>
 ## CHALLENGE
