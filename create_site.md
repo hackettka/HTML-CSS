@@ -50,8 +50,6 @@ Here are two additional tags that might come in handy in assembling your page:
 <br/>
 ```
 
-<br/>  
-<br/>
 
 ## CHALLENGE
 Finished? Play around with other tags by referring to an [html cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php). 
