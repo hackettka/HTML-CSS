@@ -1,3 +1,5 @@
+[<<<Back](opening_activity.md) | [Next>>>](elements.md)
+
 # Basic Template for HTML
 
 Below is a basic template for an empty HTML Document. 
