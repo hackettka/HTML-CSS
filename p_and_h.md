@@ -39,7 +39,7 @@ In you `index.html` file, add
 </ul>
 Then, re-save the file. Go into your finder and open it in your browser.
 <br/>
-
+<br/>
 What do you notice about how the information is organized in the webpage? In other words, where is the title, heading and paragraph text?
 <br/>
 <br/>
