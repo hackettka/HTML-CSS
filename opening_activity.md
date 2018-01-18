@@ -10,7 +10,7 @@ Go to any webpage, right click on the page, and select ‘View Page Source’ fr
 
 <br/>
 <br/>
-What do you see? What can you discern about how HTML functions? 
+What do you see?
 <br/>
 <br/>
 
