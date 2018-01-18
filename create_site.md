@@ -20,7 +20,6 @@ The first step is creating a new page. Call this page `Course.html` and remember
     </ul>
     <strong>Think about the order of your content as you assemble the body of your page.</strong> 
 </p>
-<br/>
 
 ## Additional Tags
 Here are two additional tags that might come in handy in assembling your page:
