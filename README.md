@@ -50,7 +50,7 @@ For this workshop, participants will need:
 
 ### Looking Ahead
 
-[Making your Website Public](public.md) <br/>
+[Making your Website Public](public.md)  <br/>
 [Additional Resources](resource.md) <br/>
 <br/>
 <br/>
