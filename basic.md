@@ -17,9 +17,9 @@ Below is a basic template for an empty HTML Document.
 
 HTML documents start with a `DOCTYPE` declaration that states what version of HTML is being used, which tells the browser how the read the code below it to render the page. If the webpage were written with a different markup language (i.e. XML, XHTML), it would tell you here.
 
-After the `DOCTYPE`, we see the start of the Root Element. **EVERYTHING** - all content - that you want presented on this page and all information about how you want that information to be organized and styled goes in the root element, and it is demarcated by `<html>` and `</html>`. 
+After the `DOCTYPE`, we see the start of the **Root Element**. EVERYTHING - all content - that you want presented on this page and all information about how you want that information to be organized and styled goes in the root element, and it is demarcated by `<html>` and `</html>`. 
 
-The **root element** begins by indicating which language the document is written in; and in this basic template, `en` tells us we are writing in English. 
+The root element begins by indicating which language the document is written in; and in this basic template, `en` tells us we are writing in English. 
 
 Within the root element of the basic template below, you'll notice the two main sections of all HTML documents - a head section (demarcated by `<head>` and `</head>`) and a body section (demarcated by `<body>` and `</body>`). 
 
