@@ -1,3 +1,5 @@
+[<<<Back](troubleshooting) | [Next>>>](README.md)
+
 # Making Your Website Public
 
 Great job! Now you have an AMAZING website *stuck* on your computer where no one else can find it or view it. How do you get your website onto the Internet so it can be shared? 
@@ -18,6 +20,7 @@ You also need a server to transfer your files to, where they can be stored and s
 
 You can also treat your computer as a server, and [host a website directly from your computer](https://makeawebsitehub.com/host-website-computer/). 
 
+[<<<Back](troubleshooting) | [Next>>>](README.md)
 
 ## Other Resources about FTP:
 - [FTP for Beginners, *Wired*](https://www.wired.com/2010/02/ftp_for_beginners/)
