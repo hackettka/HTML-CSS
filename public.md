@@ -8,13 +8,14 @@ FTP means **file transfer protocol** and in short, is the method used to share f
 
 *Note: Though FTP stands for file **transfer** protocol, you are not really transfering or moving your files from your computer; instead they are **copied** to the server. Fear not.*
 
-In order to transfer your website files (also called your website's directory) to a server you will need you'll need access to the Internet, an FTP Client, some knowledge of the command line, and a server connected to the Internet.
+In order to transfer your website files (also called your website's directory) to a server you will need access to the Internet, an FTP Client, and a server that is connected to the Internet where you can send your files.
 
-- and internet connection
-- FTP client: software designed specifically for this purpose - needs live connection (Ex. Filezilla and .. both Free! and useable on Macs, Windows and Linux.)
-- Can also run an ftp client program through the command line.
-- You also need a server location to store your files - this is what we call web hosting... 
+Assuming you all can manage accessing the Intenet on your own, let's focus on the latter two.
 
-In order to do this, 
+An **FTP client** is a software designed specifically for the purpose of sharing files between computers. There are widely-used, freely-available GUIs that you can download for use (Ex. [Filezilla](https://filezilla-project.org/) and [Cyberduck](https://cyberduck.io/?l=en). You can also run an FTP client program through the command line on most computers, though the process varies by operating system. 
 
-FTP for Beginners, [*Wired*](https://www.wired.com/2010/02/ftp_for_beginners/)
+You also need a server to transfer your files to, where they can be stored and shared on the Internet. This is what we call **web hosting** and there are multiple options here as well. The GCDI website contains a list of [low-cost cloud hosting services for students](https://gcdi.commons.gc.cuny.edu/digital-resource-guide/#cloud). 
+
+
+Other Resources about FTP:
+- FTP for Beginners, [*Wired*](https://www.wired.com/2010/02/ftp_for_beginners/)
