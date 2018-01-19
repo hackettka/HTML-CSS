@@ -10,23 +10,18 @@ The code for CSS and HTML is different for classes and IDs.
 Class selectors look like this - the name of the selector preceeded by a full stop:
 
 ```
-.navbar {
+.intro {
 	font-family: arial;
-	background-color: yellow;
-	color: navy;
+	background-color: grey;
+	color: dark grey;
 }
 ```
 
 ...and in HTML they are incorporated into elements like this:
 
 ```
-<p class="navbar">
-		<h1> Main Menu </h1>
-		<ul> Some green text</p>
-			<li> Home </li>
-			<li> About </li>
-			<li> Contact </li>
-		</ul>
+<p class="intro">
+		This is my introduction to my paragraph and I want to be distinguished from the rest of my content so I will add it as a class and note where the intros are found in my HTML.
 </p>
 ```
 
@@ -35,15 +30,17 @@ Id selectors look like this in the CSS - the name of the selector preceeded by a
 ```
 #navbar {
 	background-color: yellow;
+	passing: 80px
 }
 ```
 
 ...and in the HTML they are incorporated into elements like this:
 
 ```
-<p id="green-text">
-	<p>This is a paragraph and I want the text to be green.
-</p>
+<ul id="navbar">
+	<li> Home </li>
+	<li> About </li>
+</ul>
 ```
 <br/>
 Tip: If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.

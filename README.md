@@ -44,7 +44,6 @@ For this workshop, participants will need:
 [Rule sets](rules.md) <br/>
 [Filtering](filter.md) <br/>
 [Classes and ids](classes.md) <br/>
-[Ordering](ordering.md) <br/>
 [Useful selectors](selectors.md) <br/>
 [Activity: Creating a CSS Stylesheet](creating_stylesheet.md) <br/>
 [Troubleshooting](troubleshooting.md) <br/>

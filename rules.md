@@ -1,3 +1,5 @@
+[<<<Back](integration.md) | [Next>>>](filter.md)
+
 # Rule sets
 
 CSS is based on rules. Rule sets look like this:
@@ -7,15 +9,34 @@ h1 {
 	color: orange;
 	font-style: italic;
 }
+p {
+	font-family: san serif
+	font-style: normal
+}
+#navbar {
+	background-color: yellow;
+	padding: 80px
+}
+.intro {
+	font-family: arial;
+	background-color: grey;
+	color: dark grey;
+}
 ```
 
-This rule applies to all `<h1>` tags, and changes their font style and display. The lines within the braces `{ }` are called "selectors," and they change the formatting of the elements in the HTML document. Each selector ends in a semicolon (`;`). 
+The first rule applies to all `<h1>` tags on each page where your HTML document links to your stylesheet, and changes the font style and display of those headings. 
 
-## Activity 
+The lines within the curly braces (i.e. `{ }`) are called **selectors**, and they change the formatting of the elements in the HTML document. Each selector ends in a semicolon (`;`).
+
+Note the different syntax being used for the different rule sets. The bottom two are specific kinds of rule sets called **classes** and **ids**. In general, classes and ids allow for more specific styling - more on these soon! 
+
+*Note: It does not matter what order you put rule sets in your stylesheet. CSS gives priority to the more specific rules first, always.*
+
+## ACTIVITY
 Copy and paste the CSS above into your `style.css` file and re-save the file. Then open or refresh your `index.html` file in your browser and see what happens.  
 
 <strong>What are some other selectors you might set for different HTML elements?</strong>
 <br/>
 <br/>
-<br/>
-[<<<Previous<<<](integration.md) | [>>>Next>>>](filter.md)
+
+[<<<Back](integration.md) | [Next>>>](filter.md)
