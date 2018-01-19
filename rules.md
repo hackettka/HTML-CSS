@@ -30,8 +30,6 @@ The lines within the curly braces (i.e. `{ }`) are called **selectors**, and the
 
 Note the different syntax being used for the different rule sets. The bottom two are specific kinds of rule sets called **classes** and **ids**. In general, classes and ids allow for more specific styling - more on these soon! 
 
-*Note: It does not matter what order you put rule sets in your stylesheet. CSS gives priority to the more specific rules first, always.*
-
 ## ACTIVITY
 Copy and paste the CSS above into your `style.css` file and re-save the file. Then open or refresh your `index.html` file in your browser and see what happens.  
 
