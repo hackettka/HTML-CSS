@@ -20,8 +20,6 @@ You also need a server to transfer your files to, where they can be stored and s
 
 You can also treat your computer as a server, and [host a website directly from your computer](https://makeawebsitehub.com/host-website-computer/). 
 
-[<<<Back](troubleshooting) | [Next>>>](README.md)
-
 ## Other Resources about FTP:
 - [FTP for Beginners, *Wired*](https://www.wired.com/2010/02/ftp_for_beginners/)
 
@@ -36,3 +34,5 @@ You can also treat your computer as a server, and [host a website directly from 
 ### For Mac Users:
 - [How To Use FTP Through the Command Line in Mac OS X](http://www.techradar.com/how-to/software/operating-systems/how-to-use-ftp-through-the-command-line-in-mac-os-x-1305664)
 - [How to Use the Mac Terminal as an FTP or SFTP Client](https://beebom.com/how-to-use-mac-terminal-ftp-sftp-client/)
+
+[<<<Back](troubleshooting) | [Next>>>](README.md)

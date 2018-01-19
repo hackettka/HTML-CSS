@@ -51,8 +51,8 @@ For this workshop, participants will need:
 ### Looking Ahead
 
 [Making your Website Public](public.md)  <br/>
-[Additional Resources](resource.md) <br/>
+*Additional Resources forthcoming* <br/>
 <br/>
 <br/>
-<br/>
+
 [Next>>>](introduction.md)
