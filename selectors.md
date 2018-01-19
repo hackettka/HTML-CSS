@@ -1,5 +1,8 @@
+[<<<Back](classes.md) | [Next>>>](creating_stylesheet.md)
 
 # Useful selectors
+
+Below is a list of useful selectors compiled by Digital Fellow [Patick Smyth](https://github.com/smythp). There are also [CSS cheatsheets](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf) available online.
 
 ### Color
 
@@ -69,5 +72,5 @@ Sets the font. Usually best to copy this from Google Fonts or another web font r
     font-family: 'Lato', sans-serif;
 <br/>
 <br/>
-<br/>
-[<<<Previous<<<](classes.md) | [>>>Next>>>](creating_stylesheet.md)
+
+[<<<Back](classes.md) | [Next>>>](creating_stylesheet.md)
