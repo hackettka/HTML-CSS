@@ -1,3 +1,5 @@
+[<<<Back](css_basic.md) | [Next>>>](rules.md)
+
 # Integrating CSS and HTML
 
 In order to CSS to inform the style of the content on the page, it must be integated with your HTML. CSS can be integrated into your HTML in three ways. 
