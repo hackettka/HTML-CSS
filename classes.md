@@ -1,13 +1,19 @@
+[<<<Back](filter.md) | [Next>>>](selectors.md)
 
 # Classes and Ids
 
-Classes and IDs can also assist with more fine-grained styling by allowing you to define your own selectors. The difference between classes and IDs is that IDs are unique used to identify one specfic element whereas a class are used to identify more than one.
+Classes and IDs can also assist with more fine-grained styling by allowing you to define your own selectors. The difference between classes and IDs is that **IDs are unique**, used to identify one specfic element or part of an element, whereas **classes are used to identify multiple instances of the same type of element**.
 
-Incorporating classes and IDs into the styling of your document includes two steps: first, some CSS code must be added to your stylesheet; second, some HTML code that refers to the CSS must be added to your HTML document. 
+Incorporating classes and IDs into the styling of your document includes two steps: 
 
-The code for CSS and HTML is different for classes and IDs.
+<ul>
+	<li> First, some CSS code must be added to your stylesheet; </li>
+	<li> Second, some HTML code that refers to the CSS must be added to your HTML document. <i> Note that this is in addition to the general link to the stylesheet.</i> </li>
+</ul>
 
-Class selectors look like this - the name of the selector preceeded by a full stop:
+**The code for classes and IDs is different in both CSS and HTML.**
+
+**Class selectors** look like this - the name of the selector preceeded by a full stop:
 
 ```
 .intro {
@@ -25,7 +31,7 @@ Class selectors look like this - the name of the selector preceeded by a full st
 </p>
 ```
 
-Id selectors look like this in the CSS - the name of the selector preceeded by a hashmark:
+**Id selectors** look like this in the CSS - the name of the selector preceeded by a hashmark:
 
 ```
 #navbar {
@@ -43,8 +49,8 @@ Id selectors look like this in the CSS - the name of the selector preceeded by a
 </ul>
 ```
 <br/>
-Tip: If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.
+*Tip: If you run into an error, be sure to check your punctuation. Often times it is a mistype, or overlooking a semi-colon, etc.*
 <br/>
 <br/>
-<br/>
-[<<<Previous<<<](filter.md) | [>>>Next>>>](selectors.md)
+
+[<<<Back](filter.md) | [Next>>>](selectors.md)
