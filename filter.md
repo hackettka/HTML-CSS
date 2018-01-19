@@ -1,7 +1,8 @@
+[<<<Back](rules.md) | [Next>>>](classes.md)
 
 # Filtering
 
-Some of you may be wondering whether it matters what order you add the rule sets to your `style.html` document? The answer is no. CSS has an automatic filtering function where the most specific rule in CSS always takes precedence. 
+Some of you may be wondering whether it matters what order you add the rule sets to your `style.html` document. The answer is no. CSS has an automatic filtering function where **the most specific rule in CSS always takes precedence.** 
 
 So if your stylesheet contained the following rule sets:
 
@@ -14,7 +15,7 @@ p strong {
 }
 ```
 
-...then the text of your paragraph would be green, but where the strong tag is found in the paragraph, the text would be red. In other words, the more specific styling for the bold text in your paragraph will override the less specific styling of the paragraph in general. This would occur regardless of the order these rule sets appear in the stylesheet.
+...then the text of your paragraph would be green, but where the strong tag is found in the paragraph, the text would be red. In other words, the more specific styling for the bold text in your paragraph will override the less specific styling of the paragraph in general. This would **occur regardless of the order these rule sets appear in the stylesheet.**
 <br/>
 <br/>
 
