@@ -1,6 +1,6 @@
 [<<<Back](integration.md) | [Next>>>](filter.md)
 
-# Rule sets
+# 
 
 CSS is based on rules. Rule sets look like this:
 
