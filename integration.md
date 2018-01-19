@@ -68,11 +68,11 @@ External styling creates a completely separate document for your CSS that will b
 ```
 
 ## Best Practices:
-Option 3, external styling, is preferred by most web developers because it is considered best practice to keep your HTML document 'presentation' free. 
+Option 3, external styling, is preferred by most web developers because it is considered best practice to keep your HTML and CSS separate. 
 
 ## ACTIVITY
-Open up a new document in your Sublime Text editor. Save the document to the same folder as your HTML documents and title it `style.css`. In your `index.html` document, add in the link to our style sheet and re-save the file. Be sure to add it in the correct place in the code. 
+Open up a new document in your Sublime Text editor. Save the document as `style.css` to the same folder as your HTML documents. In your `index.html` document, link to your style sheet and re-save the file. Be sure to add it in the correct place in the code. 
 <br/>
 <br/>
-<br/>
-[<<<Previous<<<](css_basic.md) | [>>>Next>>>](rules.md)
+
+[<<<Back](css_basic.md) | [Next>>>](rules.md)
